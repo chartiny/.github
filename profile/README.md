@@ -1,7 +1,8 @@
 
 # Chartiny
 
-If you are seeing this,
-it means I forgot to update it.
+Chartiny is hiring!
+
+Get acquainted with all our public repos if you'd be interested.
 
 
